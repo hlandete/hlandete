@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hlandete
-- 👀 I’m interested in working in an environment focused in JS (MEAN stack mainly)
+- 👀 I’m interested in working in an environment focused in JS (MEAN/MERN stack mainly)
 - 🌱 I’m currently learning React and improving Angular and Node
 - 📫 You can contact me on hector.landete@gmail.com
 
